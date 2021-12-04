@@ -11,7 +11,7 @@ For example, Yoroi wallet
 has plans to add support for such [bridge between the wallet and dApps](https://cardanoupdates.com/docs/98524716-9e4c-4aeb-b462-08ec701b7f6c). However, that may take some time, also, from the
 decentralization perspective, it is good to have alternative options!
 
-By using this service, it is possible to generate any arbitrary transaction on user's behalf while letting user to use her favorite wallet!
+By using this service, it is possible to generate any arbitrary transaction on user's behalf while letting user to use their favorite wallet!
 
 ## Does it make dApps slower?
 Despite the fact that the service is an intermediate step which requires users to send assets to
